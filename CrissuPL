@@ -1,0 +1,68 @@
+
+### Keybase proof
+
+I hereby claim:
+
+  * I am crissupl on github.
+  * I am crissupl (https://keybase.io/crissupl) on keybase.
+  * I have a public key ASAeobkpk4WSFNRDY3dGzzQBPIBnMGTbpo3CZzxyhgO6awo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201ea1b92993859214d443637746cf34013c80673064dba68dc2673c728603ba6b0a",
+      "host": "keybase.io",
+      "kid": "01201ea1b92993859214d443637746cf34013c80673064dba68dc2673c728603ba6b0a",
+      "uid": "59740aac238946b775a7997263561e19",
+      "username": "crissupl"
+    },
+    "merkle_root": {
+      "ctime": 1568071857,
+      "hash": "1f56ba7708fce33e1140ad90025a1eb6b07b500ff021a8ed8dace402c10d93ae9525c2cf0b63ccf0591a940bcdd71af23ae70599fddeb56bae74d517c9983ac0",
+      "hash_meta": "0e52256bc086cc55109192f265d4b6af63fc41612ef3086503e099825d3623ea",
+      "seqno": 6272472
+    },
+    "service": {
+      "entropy": "S9OApnY5Xo+lZkO9Jep6mNsY",
+      "name": "github",
+      "username": "crissupl"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568071864,
+  "expire_in": 504576000,
+  "prev": "791ec3b90baa1d2a9e3b259e181524b6b4e51c23b6fc90d8cace8c7c77fa39b5",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASAeobkpk4WSFNRDY3dGzzQBPIBnMGTbpo3CZzxyhgO6awo](https://keybase.io/crissupl), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgHqG5KZOFkhTUQ2N3Rs80ATyAZzBk26aNwmc8coYDumsKp3BheWxvYWTESpcCBcQgeR7DuQuqHSqeOyWeGBUktrTlHCO2/JDYys6MfHf6ObXEIA1miOEn55zN3uj9nkfUeKp01+Shc8B4Dqe69aaSpAO0AgHCo3NpZ8RAZdkY2Mqa5vJghRyZKlz4h1Je+hTgDVyCocLfa+EYZIVW5fH/7qmfpUPEy225Kb8FYHklrLM5kU2Ljo8RnL48AqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKbISgcha875lBCDoX71Q2vhk8QnxzfjtdpPMpbyqf7Ao3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/crissupl
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id crissupl
+```
